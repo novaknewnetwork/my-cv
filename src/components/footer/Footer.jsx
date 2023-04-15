@@ -27,7 +27,7 @@ const Footer = () => {
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/aleksandr-novak-891474257" target="_blank"><BsLinkedin/></a>
         <a href="https://www.upwork.com/freelancers/~018dc4755325ab5348?viewMode=1" target="_blank"><SiUpwork/></a>
-        <a href="https://github.com/novak-new-network" target="_blank"><SiGithub/></a>
+        <a href="https://github.com/novaknewnetwork" target="_blank"><SiGithub/></a>
       </div>
 
       <div className="footer__rights">
