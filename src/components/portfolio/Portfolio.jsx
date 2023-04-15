@@ -13,48 +13,48 @@ const data = [
     id: 1,
     image: Portfolio1,
     title: 'Create Account Page with animations',
-    github: 'https://novak-new-network.github.io/project-account/',
-    demo: 'https://github.com/novak-new-network/project-account'
+    github: 'https://novaknewnetwork.github.io/project-create-account-page/',
+    demo: 'https://github.com/novaknewnetwork/project-create-account-page.git'
   },
 
   {
     id: 2,
     image: Portfolio2,
     title: 'Responsive layout with filter and animations',
-    github: 'https://novak-new-network.github.io/project-animation-filter/',
-    demo: 'https://github.com/novak-new-network/project-animation-filter'
+    github: 'https://novaknewnetwork.github.io/project-gallery/',
+    demo: 'https://github.com/novaknewnetwork/project-gallery.git'
   },
 
   {
     id: 3,
     image: Portfolio3,
     title: 'Responsive layout with Slick Slider',
-    github: 'https://novak-new-network.github.io/project-american-cars/',
-    demo: 'https://github.com/novak-new-network/project-american-cars'
+    github: 'https://novaknewnetwork.github.io/project-american-cars/',
+    demo: 'https://github.com/novaknewnetwork/project-american-cars.git'
   },
 
   {
     id: 4,
     image: Portfolio4,
     title: 'Responsive layout with HTML, CSS, JavaScript',
-    github: 'https://novak-new-network.github.io/project-wines-clone/',
-    demo: 'https://github.com/novak-new-network/project-wines-clone'
+    github: ' https://novaknewnetwork.github.io/project-wines-2.0/',
+    demo: 'https://github.com/novaknewnetwork/project-wines-2.0.git'
   },
 
   {
     id: 5,
     image: Portfolio5,
     title: 'Responsive layout with Slider Swiper',
-    github: 'https://novak-new-network.github.io/project-flying-falcon/',
-    demo: 'https://github.com/novak-new-network/project-flying-falcon'
+    github: 'https://novaknewnetwork.github.io/project-flying-falcon-2.0/',
+    demo: 'https://github.com/novaknewnetwork/project-flying-falcon-2.0.git'
   },
 
   {
     id: 6,
     image: Portfolio6,
     title: 'Responsive layout with HTML, CSS, JS',
-    github: 'https://novak-new-network.github.io/project-regjeringen-clone/',
-    demo: 'https://github.com/novak-new-network/project-regjeringen-clone'
+    github: ' https://novaknewnetwork.github.io/project-regjeringen-2.0/',
+    demo: 'https://github.com/novaknewnetwork/project-regjeringen-2.0.git'
   }
 
 ]
@@ -62,7 +62,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>a few layout examples</h5>
+      <h5>some work of layout sites</h5>
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
         {
