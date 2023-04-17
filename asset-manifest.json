@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-cv/static/css/main.7dce83b6.css",
+    "main.js": "/my-cv/static/js/main.b0246e24.js",
+    "static/media/Portfolio6.webp": "/my-cv/static/media/Portfolio6.47f1efc2288585554140.webp",
+    "static/media/Portfolio3.webp": "/my-cv/static/media/Portfolio3.e556b17827a7548e7fb1.webp",
+    "static/media/Portfolio5.webp": "/my-cv/static/media/Portfolio5.988f82216d566f1440a7.webp",
+    "static/media/Portfolio4.webp": "/my-cv/static/media/Portfolio4.aebb5c5d8c8c498d5e3b.webp",
+    "static/media/Portfolio2.webp": "/my-cv/static/media/Portfolio2.7a6139124d9b363e82c7.webp",
+    "static/media/Portfolio1.webp": "/my-cv/static/media/Portfolio1.b1f801f9f063bd0e9230.webp",
+    "static/media/Ukraine.webp": "/my-cv/static/media/Ukraine.1b915ac00e6ddaf8fa29.webp",
+    "static/media/NovakOleksandrCV.pdf": "/my-cv/static/media/NovakOleksandrCV.e16f5331fc22aaeeffdf.pdf",
+    "static/media/LogoSite.png": "/my-cv/static/media/LogoSite.749ea3f5a5a2b627ac31.png",
+    "index.html": "/my-cv/index.html",
+    "main.7dce83b6.css.map": "/my-cv/static/css/main.7dce83b6.css.map",
+    "main.b0246e24.js.map": "/my-cv/static/js/main.b0246e24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dce83b6.css",
+    "static/js/main.b0246e24.js"
+  ]
+}
