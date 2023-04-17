@@ -11,6 +11,7 @@
 }
 
 .app__subtitle {
+    line-height: 1.2;
     font-family: 'Kaushan Script';
     color: var(--color-white);
     font-size: 2rem;
@@ -73,7 +74,7 @@
 
 .scroll__down {
     position: absolute;
-    right: -2.5rem;
+    right: -2rem;
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 300;
